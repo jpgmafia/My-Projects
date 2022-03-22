@@ -1,6 +1,6 @@
 # My-Projects
 > This is a repository for the projects I've worked on for Udacity's Data Analysis Nanodegree.
--   The first folder includes 'Exploring US BikeShare Data'.
+-   The first folder includes *Exploring US BikeShare Data*.
 
 
 
@@ -11,7 +11,7 @@
     
     
     
--   The second folder includes 'Investigating TMDb dataset'.
+-   The second folder includes *Investigating TMDb dataset*.
 
 
 
